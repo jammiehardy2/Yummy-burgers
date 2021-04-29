@@ -1,5 +1,5 @@
 
-USE Burger_db
+USE burger_db
 
 INSERT INTO burgers (burger_name, devoured) VALUES ('The Double Animal Style CheeseBurger', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('The Chargrilled CheeseBurger', true);   
