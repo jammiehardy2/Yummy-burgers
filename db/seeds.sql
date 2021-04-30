@@ -10,4 +10,4 @@ INSERT INTO burgers (burger_name, devoured) VALUES ('CheeseBurger', true);
 
 
 SELECT *
-FROM burgers;
+FROM burger;
